@@ -12,12 +12,12 @@ return {
 		["mod_name"] = "Traxx 1 Repaintpaket SBB CFF FFS Cargo ",
 		["mod_desc"] = "Dies ist das SBB CFF FFS Cargo Repaintpaket für die Traxx F140 AC von der ModWerkstatt. In diesem Paket sind weitere 17 Lackierungen enthalten. Dieses Paket entstande Kooperation und mit Erlaubnis der SBB CFF FFS Cargo.",
 				
-		["re482_sbb_name"] = "Re482 000 SBB Cargo (2000)",
-		["re482_sbb2_name"] = "Re482 000 SBB Cargo (2000)",
-		["re482_sbb3_name"] = "Re482 000 SBB Cargo (2000)",
-		["re482_sbb4_name"] = "Re482 000 SBB Cargo (2000)",
-		["re482_sbb5_name"] = "Re482 000 SBB Cargo (2000)",
-		["re482_sbb6_name"] = "Re482 000 SBB Cargo (2000)",
+		["re482_sbb_name"] = "Re482 000 SBB Cargo - Köln(2003)",
+		["re482_sbb2_name"] = "Re482 011 SBB Cargo - Lokführer (2007)",
+		["re482_sbb3_name"] = "Re482 025 SBB Cargo (2009)",
+		["re482_sbb4_name"] = "Re482 010 SBB Cargo - Bewerbung SBBCINT (2012)",
+		["re482_sbb5_name"] = "Re482 008 SBB Cargo - Ökotrans (2005)",
+		["re482_sbb6_name"] = "Re482 023 SBB Cargo - Olten (2011)",
 		["re482_sbb7_name"] = "Re482 000 SBB Cargo (2000)",
 		["re482_sbb8_name"] = "Re482 000 SBB Cargo (2000)",
 		["re482_sbb9_name"] = "Re482 000 SBB Cargo (2000)",
@@ -32,7 +32,7 @@ return {
 						
 		 -- Vorspann
 		
-		["re482_sbb_name_vorspann"] = "Vorspann - Re482 000 SBB Cargo (2000)",
+		["re482_sbb5_name_vorspann"] = "Vorspann - Re482 000 SBB Cargo (2000)",
 		["re482_sbb2_name_vorspann"] = "Vorspann - Re482 000 SBB Cargo (2000)",
 		["re482_sbb3_name_vorspann"] = "Vorspann - Re482 000 SBB Cargo (2000)",
 		["re482_sbb4_name_vorspann"] = "Vorspann - Re482 000 SBB Cargo (2000)",
@@ -53,7 +53,7 @@ return {
 		
         -- Fake
 		
-		["re482_sbb_name_fake"] = "Fake - Re482 000 SBB Cargo (2000)",
+		["re482_sbb5_name_fake"] = "Fake - Re482 000 SBB Cargo (2000)",
 		["re482_sbb2_name_fake"] = "Fake - Re482 000 SBB Cargo (2000)",
 		["re482_sbb3_name_fake"] = "Fake - Re482 000 SBB Cargo (2000)",
 		["re482_sbb4_name_fake"] = "Fake - Re482 000 SBB Cargo (2000)",
