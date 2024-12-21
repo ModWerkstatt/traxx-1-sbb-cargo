@@ -5,6 +5,11 @@ return {
 		["mod_name"] = "Traxx 1 SBB Cargo repaint package",
 		["mod_desc"] = "This is a repaint package from SBB CFF FFS Cargo and SBB Cargo International for the Traxx F140 AC1 from ModWerkstatt. An additional 13 paint finishes are included in this package. This package was created in cooperation and with the permission of SBB CFF FFS Cargo and SBB Cargo Internaitonal.",
 
+		["br185_desc"] = "The Traxx AC1 F140 is a dual-system electric freight locomotive that can be delivered with 2 or 4 pantographs. It can be equipped with various country packages, e.g. for Switzerland or France. Most Deutsche Bahn locomotives were only supplied with 2 pantographs for use in Germany and Austria.",
+
+		["br185_ch"] = 	"BR 185 with 4 panto for Swiss, France or Luxembourg",
+		["br185"] = 	"BR 185 with 2 panto",
+		
 		["re482_sbb_name"] = "Re482 000 SBB Cargo - Cologne(2003)",
 		["re482_sbb2_name"] = "Re482 011 SBB Cargo - Train driver (2007)",
 		["re482_sbb3_name"] = "Re482 025 SBB Cargo (2009)",
@@ -62,6 +67,11 @@ return {
 
 		["mod_name"] = "Traxx 1 SBB Cargo Repaintpaket",
 		["mod_desc"] = "Dies ist Repaintpaket der SBB CFF FFS Cargo sowie der SBB Cargo International für die Traxx F140 AC1 von der ModWerkstatt. In diesem Paket sind weitere 13 Lackierungen enthalten. Dieses Paket entstande Kooperation und mit Erlaubnis der SBB CFF FFS Cargo und der SBB Cargo Internaitonal.",
+						
+		["br185_desc"] = "Die Traxx AC1 F140 ist eine zweisystemfähige elektrische Güterlokomotive, die mit 2 oder 4 Stromabnehmern ausgeliefert werden kann. Sie kann mit verschiedenen Länderpaketen ausgerüstet werden z.B. für die Schweiz oder Frankreich. Die meisten Loks der Deutschen Bahn wurden nur mit 2 Pantographen geliefert für den Einsatz in Deutschland und Österreich.",
+	
+		["br185_ch"] = 	" BR 185 mit 4 Panto für Schweiz, Frankreich oder Luxemburg",
+		["br185"] = 	" BR 185 mit 2 Panto",				
 				
 		["re482_sbb_name"] = "Re482 000 SBB Cargo - Köln(2003)",
 		["re482_sbb2_name"] = "Re482 011 SBB Cargo - Lokführer (2007)",
