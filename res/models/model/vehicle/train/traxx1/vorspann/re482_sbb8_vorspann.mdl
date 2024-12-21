@@ -70,7 +70,7 @@ return {
 			            transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 5.1999998092651, 0, 0, 1, },
                     },
 					{
-						materials = { "vehicle/train/traxx1/rumpf_re482_sbb.mtl", },
+						materials = { "vehicle/train/traxx1/rumpf_re482_sbb8.mtl", },
 						mesh = "vehicle/train/traxx1/rumpf_lod0.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, -0.041123498231173, 1, },
@@ -214,7 +214,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/traxx1/rumpf_re482_sbb.mtl", },
+						materials = { "vehicle/train/traxx1/rumpf_re482_sbb8.mtl", },
 						mesh = "vehicle/train/traxx1/kamera_lod0.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, -0.041123498231173, 1, },
@@ -285,7 +285,7 @@ return {
 			            transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 5.1999998092651, 0, 0, 1, },
                     },
 					{
-						materials = { "vehicle/train/traxx1/rumpf_re482_sbb.mtl", },
+						materials = { "vehicle/train/traxx1/rumpf_re482_sbb8.mtl", },
 						mesh = "vehicle/train/traxx1/rumpf_lod1.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, -0.041123498231173, 1, },
@@ -482,7 +482,7 @@ return {
 			            transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 5.1999998092651, 0, 0, 1, },
                     },
 					{
-						materials = { "vehicle/train/traxx1/rumpf_re482_sbb.mtl", },
+						materials = { "vehicle/train/traxx1/rumpf_re482_sbb8.mtl", },
 						mesh = "vehicle/train/traxx1/rumpf_lod2.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, -0.041123498231173, 1, },
@@ -589,7 +589,7 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/traxx1/rumpf_re482_sbb.mtl", },
+						materials = { "vehicle/train/traxx1/rumpf_re482_sbb8.mtl", },
 						mesh = "vehicle/train/traxx1/rumpf_lod3.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, -0.041123498231173, 1, },
@@ -605,15 +605,15 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 2003,
-			yearTo = 2009,
+			yearFrom = 2006,
+			yearTo = 2015,
 		},
 		cost = {
 			price = -1,
 			priceScale = 1,
 		},
 		description = {
-			name = _("re482_sbb_name_vorspann"),
+			name = _("re482_sbb8_name_vorspann"),
 			description = _("br185_desc") .. _("br185_ch"),
 		},
 		emission = {
