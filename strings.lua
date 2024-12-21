@@ -2,7 +2,7 @@ function data()
 return {
 	en = {
 
-		["mod_name"] = "Traxx 1 SBB repaint package",
+		["mod_name"] = "Traxx 1 SBB Cargo repaint package",
 		["mod_desc"] = "This is a repaint package from SBB CFF FFS Cargo and SBB Cargo International for the Traxx F140 AC1 from ModWerkstatt. An additional 13 paint finishes are included in this package. This package was created in cooperation and with the permission of SBB CFF FFS Cargo and SBB Cargo Internaitonal.",
 
 		["re482_sbb_name"] = "Re482 000 SBB Cargo - Cologne(2003)",
@@ -60,7 +60,7 @@ return {
 	},
 	de = {
 
-		["mod_name"] = "Traxx 1 SBB Repaintpaket",
+		["mod_name"] = "Traxx 1 SBB Cargo Repaintpaket",
 		["mod_desc"] = "Dies ist Repaintpaket der SBB CFF FFS Cargo sowie der SBB Cargo International für die Traxx F140 AC1 von der ModWerkstatt. In diesem Paket sind weitere 13 Lackierungen enthalten. Dieses Paket entstande Kooperation und mit Erlaubnis der SBB CFF FFS Cargo und der SBB Cargo Internaitonal.",
 				
 		["re482_sbb_name"] = "Re482 000 SBB Cargo - Köln(2003)",
