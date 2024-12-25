@@ -67,11 +67,11 @@ return {
 
 		["mod_name"] = "Traxx 1 SBB Cargo Repaintpaket",
 		["mod_desc"] = "Dies ist Repaintpaket von der Traxx 1 F140 AC1 von der ModWerkstatt mit Repaints der SBB CFF FFS Cargo sowie der SBB Cargo International. In diesem Paket sind weitere 13 Lackierungen enthalten. Dieses Paket entstand in Kooperation und mit Erlaubnis der SBB CFF FFS Cargo und der SBB Cargo International.",
-i
+
 		["br185_desc"] = "Die Traxx AC1 F140 ist eine zweisystemfähige elektrische Güterlokomotive, die mit 2 oder 4 Stromabnehmern ausgeliefert werden kann. Sie kann mit verschiedenen Länderpaketen ausgerüstet werden z.B. für die Schweiz oder Frankreich. Die meisten Loks der Deutschen Bahn wurden nur mit 2 Pantographen geliefert für den Einsatz in Deutschland und Österreich.",
 
-		["br185_ch"] = 	" BR 185 mit 4 Panto für Schweiz, Frankreich oder Luxemburg",
-		["br185"] = 	" BR 185 mit 2 Panto",
+		["br185_ch"] = 	"BR 185 mit 4 Panto für Schweiz, Frankreich oder Luxemburg",
+		["br185"] = 	"BR 185 mit 2 Panto",
 
 		["re482_sbb_name"] = "Re 482 000 SBB Cargo - Köln(2003)",
 		["re482_sbb2_name"] = "Re 482 011 SBB Cargo - Lokführer (2007)",
