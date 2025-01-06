@@ -23,8 +23,8 @@ return {
 		["re482_sbb11_name"] = "Re 482 013 SBB Cargo - Alpäzähmer (2016)",
 		["re482_sbb12_name"] = "Re 482 023 SBB Cargo - SBBCINT(2015)",
 		["re482_sbb13_name"] = "Re 482 001 SBB Cargo - Traffic red (2020)",
-		["re482_sbb14_name"] = "Re 482 020 SBB Cargo - Europe (2024)",
-		["re482_sbb15_name"] = "Re 482 012 SBB Cargo - Maintenance with a clear view (2024)",
+		["re482_sbb14_name"] = "Re 482 012 SBB Cargo - Maintenance with a clear view (2024)",
+		["re482_sbb15_name"] = "Re 482 020 SBB Cargo - Europe (2024)",
 
 		 -- Vorspann
 
@@ -41,8 +41,8 @@ return {
 		["re482_sbb11_name_vorspann"] = "Lead - Re 482 013 SBB Cargo - Alpäzähmer (2016)",
 		["re482_sbb12_name_vorspann"] = "Lead - Re 482 023 SBB Cargo - SBBCINT(2015)",
 		["re482_sbb13_name_vorspann"] = "Lead - Re 482 001 SBB Cargo - Traffic red (2020)",
-		["re482_sbb14_name_vorspann"] = "Lead - Re 482 020 SBB Cargo - Europe (2024)",
-		["re482_sbb15_name_vorspann"] = "Lead - Re 482 012 SBB Cargo - Maintenance with a clear view (2024)",
+		["re482_sbb14_name_vorspann"] = "Lead - Re 482 012 SBB Cargo - Maintenance with a clear view (2024)",
+		["re482_sbb15_name_vorspann"] = "Lead - Re 482 020 SBB Cargo - Europe (2024)",
 
         -- Fake
 
@@ -59,8 +59,8 @@ return {
 		["re482_sbb11_name_fake"] = "Fake - Re 482 013 SBB Cargo - Alpäzähmer (2016)",
 		["re482_sbb12_name_fake"] = "Fake - Re 482 023 SBB Cargo - SBBCINT(2015)",
 		["re482_sbb13_name_fake"] = "Fake - Re 482 001 SBB Cargo - Traffic red (2020)",
-		["re482_sbb14_name_fake"] = "Fake - Re 482 020 SBB Cargo - Europe (2024)",
-		["re482_sbb15_name_fake"] = "Fake - Re 482 012 SBB Cargo - Maintenance with a clear view (2024)",
+		["re482_sbb14_name_fake"] = "Fake - Re 482 012 SBB Cargo - Maintenance with a clear view (2024)",
+		["re482_sbb15_name_fake"] = "Fake - Re 482 020 SBB Cargo - Europe (2024)",
 
 	},
 	de = {
@@ -86,8 +86,8 @@ return {
 		["re482_sbb11_name"] = "Re 482 013 SBB Cargo - Alpäzähmer (2016)",
 		["re482_sbb12_name"] = "Re 482 023 SBB Cargo - SBBCINT(2015)",
 		["re482_sbb13_name"] = "Re 482 001 SBB Cargo - Verkehrsrot (2020)",
-		["re482_sbb14_name"] = "Re 482 020 SBB Cargo - Europa (2024)",
-		["re482_sbb15_name"] = "Re 482 012 SBB Cargo - Wartung mit Durchblick (2024)",
+		["re482_sbb14_name"] = "Re 482 012 SBB Cargo - Wartung mit Durchblick (2024)",
+		["re482_sbb15_name"] = "Re 482 020 SBB Cargo - Europa (2024)",
 
 		 -- Vorspann
 
@@ -104,8 +104,8 @@ return {
 		["re482_sbb11_name_vorspann"] = "Vorspann - Re 482 013 SBB Cargo - Alpäzähmer (2016)",
 		["re482_sbb12_name_vorspann"] = "Vorspann - Re 482 023 SBB Cargo - SBBCINT(2015)",
 		["re482_sbb13_name_vorspann"] = "Vorspann - Re 482 001 SBB Cargo - Verkehrsrot (2020)",
-		["re482_sbb14_name_vorspann"] = "Vorspann - Re 482 020 SBB Cargo - Europa (2024)",
-		["re482_sbb15_name_vorspann"] = "Vorspann - Re 482 012 SBB Cargo - Wartung mit Durchblick (2024)",
+		["re482_sbb14_name_vorspann"] = "Vorspann - Re 482 012 SBB Cargo - Wartung mit Durchblick (2024)",
+		["re482_sbb15_name_vorspann"] = "Vorspann - Re 482 020 SBB Cargo - Europa (2024)",
 
 
         -- Fake
@@ -123,8 +123,8 @@ return {
 		["re482_sbb11_name_fake"] = "Fake - Re 482 013 SBB Cargo - Alpäzähmer (2016)",
 		["re482_sbb12_name_fake"] = "Fake - Re 482 023 SBB Cargo - SBBCINT(2015)",
 		["re482_sbb13_name_fake"] = "Fake - Re 482 001 SBB Cargo - Verkehrsrot (2020)",
-		["re482_sbb14_name_fake"] = "Fake - Re 482 020 SBB Cargo - Europa (2024)",
-		["re482_sbb15_name_fake"] = "Fake - Re 482 012 SBB Cargo - Wartung mit Durchblick (2024)",
+		["re482_sbb14_name_fake"] = "Fake - Re 482 012 SBB Cargo - Wartung mit Durchblick (2024)",
+		["re482_sbb15_name_fake"] = "Fake - Re 482 020 SBB Cargo - Europa (2024)",
 
 	},
 }
