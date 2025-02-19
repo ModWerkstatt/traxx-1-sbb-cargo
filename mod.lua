@@ -1,7 +1,7 @@
 ﻿function data()
 return {
 	info = {
-		minorVersion = 0,
+		minorVersion = 1,
 		severityAdd = "NONE",
 		severityRemove = "WARNING",
 		name = _("mod_name"),
@@ -12,10 +12,9 @@ return {
 		        role = "CREATOR",
 		    },
 		},
-		tags = { "europe", "train", "siemens", "vectron", "smartron", "electric", "multi-system", "universal" },
+		tags = { "europe", "train", "bombardier", "traxx", "electric", "multi-system", "universal" },
 		minGameVersion = 0,
 	},
 
   }
 end
-
